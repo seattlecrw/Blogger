@@ -30,6 +30,9 @@ gem 'jbuilder', '~> 2.5'
 # Use paperclip as a file attachment/upload manager
 gem 'paperclip'
 
+# Use sorcery for authentication
+gem 'sorcery'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
